@@ -1,5 +1,5 @@
 # Randomly Compiled Quantum Monte Carlo
-In ARXIVLINK, we develop *randomly compiled quantum Monte Carlo* (RC-QMC) as a framework to improve the accuracy and efficiency of quantum Monte Carlo simulation algorithms. We demonstrate application of this to path integral Monte Carlo and the quantum trajectories method. 
+In ARXIVLINK, we develop *randomly compiled quantum Monte Carlo* (RC-QMC) as a framework to improve the accuracy and efficiency of quantum Monte Carlo simulation algorithms. We apply RC-QMC to both path integral Monte Carlo and the quantum trajectories method. 
 
 Here we provide the associated code for this paper. This includes two notebooks: 
 * `QDRIFT_PIMC_Ising.ipynb` - RC-QMC applied to path integral Monte Carlo (using the [QDrift protocol](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.070503)), exemplified on simulating the thermal state of the long-range Ising model. 
